@@ -8,7 +8,7 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/2300
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-4中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4中文国际
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/1300.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
-http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
+http://1eec15.netsite.cc/proxy/1233541493/1233541493.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6电影
@@ -93,5 +93,9 @@ https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=f3f317521718851919
 https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=62b54c971718856400
 #EXTINF:-1 group-title="数字电视" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 group-title="教育" tvg-id="CETV1中国教育电视台一套" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1中国教育电视台一套
-http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
+#EXTINF:-1 group-title="海外" tvg-id="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png",HBO
+https://histar.zapi.us.kg/?id=now-hbo-signature
+#EXTINF:-1 group-title="海外" tvg-id="NOW618" tvg-logo="https://live.fanmingming.com/tv/NOW.png",NOW618
+https://histar.zapi.us.kg/?id=now-sports-618
+#EXTINF:-1 group-title="海外" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
