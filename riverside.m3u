@@ -81,3 +81,7 @@ https://histar.zapi.us.kg/?id=now-sports-618
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="海外" tvg-id="Sony movie 1" tvg-logo="https://live.fanmingming.com/tv/sony.png",Sony movie 1
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="海外" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
+http://111.167.64.43:4022/udp/225.1.1.215:5002
+#EXTINF:-1 group-title="海外" tvg-id="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清电影
+http://111.167.64.43:4022/udp/225.1.1.214:5002
