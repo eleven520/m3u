@@ -73,10 +73,6 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/130
 https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=f3f317521718851919
 #EXTINF:-1 group-title="海外" tvg-id="韩国电音" tvg-logo="https://live.fanmingming.com/tv/好看.png",韩国电音
 https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
-#EXTINF:-1 group-title="海外" tvg-id="HBO" tvg-logo="https://live.fanmingming.com/tv/HBO.png",HBO
-https://histar.zapi.us.kg/?id=now-hbo-signature
-#EXTINF:-1 group-title="海外" tvg-id="NOW618" tvg-logo="https://live.fanmingming.com/tv/NOW.png",NOW618
-https://histar.zapi.us.kg/?id=now-sports-618
 #EXTINF:-1 group-title="海外" tvg-id="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
 http://113.64.147.77:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="海外" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
