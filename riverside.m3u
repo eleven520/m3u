@@ -77,8 +77,10 @@ https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766
 https://histar.zapi.us.kg/?id=now-hbo-signature
 #EXTINF:-1 group-title="海外" tvg-id="NOW618" tvg-logo="https://live.fanmingming.com/tv/NOW.png",NOW618
 https://histar.zapi.us.kg/?id=now-sports-618
+#EXTINF:-1 group-title="海外" tvg-id="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
+http://113.64.147.77:8081/hls/37/index.m3u8
 #EXTINF:-1 group-title="海外" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://61.221.215.25:8800/hls/47/index.m3u8
+http://113.64.147.77:8081/hls/36/index.m3u8
 #EXTINF:-1 group-title="海外" tvg-id="Sony movie 1" tvg-logo="https://live.fanmingming.com/tv/sony.png",Sony movie 1
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="海外" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
