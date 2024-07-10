@@ -58,14 +58,18 @@ http://221.198.182.212:8888/udp/225.1.2.190:5002
 #EXTINF:-1 group-title="海外" tvg-id="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
 http://111.227.191.66:4000/rtp/239.254.201.2:5226
 #EXTINF:-1 group-title="海外" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://111.227.191.66:4000/rtp/239.254.201.3:5227
+http://171.108.239.99:8181/tsfile/live/1024_1.m3u8
 #EXTINF:-1 group-title="海外" tvg-id="HBO Hits" tvg-logo="https://live.fanmingming.com/tv/HBO.png",HBO Hits
 http://67.211.73.118:9901http://iptv.tvfix.org/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="海外" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
 http://221.198.182.212:8888/udp/225.1.1.215:5002
 #EXTINF:-1 group-title="海外" tvg-id="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png",CHC高清电影
 http://221.198.182.212:8888/udp/225.1.1.214:5002
+#EXTINF:-1 group-title="海外" tvg-id="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
+http://171.108.239.99:8181/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="海外" tvg-id="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png",东森超视
+http://171.108.239.99:8181/tsfile/live/1023_1.m3u8
 #EXTINF:-1 group-title="体育" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
 http://60.2.190.206:4000/rtp/239.253.92.181:6046
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事
+#EXTINF:-1 group-title="体育" tvg-id="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事
 http://60.2.190.206:4000/rtp/239.253.92.82:8013
