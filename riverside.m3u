@@ -54,9 +54,9 @@ http://117.12.148.183:12345/udp/225.1.1.116:5002
 #EXTINF:-1 group-title="海外" tvg-id="4K影视" tvg-logo="https://live.fanmingming.com/tv/4K影视.png",4K影视
 http://117.12.148.183:12345/udp/225.1.2.190:5002
 #EXTINF:-1 group-title="海外" tvg-id="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
-http://111.227.191.66:4000/rtp/239.254.201.2:5226
+http://101.68.81.44:9999/rtp/233.50.200.191:5140
 #EXTINF:-1 group-title="海外" tvg-id="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://171.108.239.99:8181/tsfile/live/1024_1.m3u8
+http://101.68.81.44:9999/rtp/233.50.200.192:5140
 #EXTINF:-1 group-title="海外" tvg-id="HBO Hits" tvg-logo="https://live.fanmingming.com/tv/HBO.png",HBO Hits
 http://67.211.73.118:9901http://iptv.tvfix.org/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="海外" tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png",CHC动作电影
