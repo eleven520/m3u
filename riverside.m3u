@@ -73,5 +73,5 @@ http://61.52.157.216:808/hls/5/index.m3u8
 http://61.52.157.216:808/hls/75/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-id="CCTV-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV-4K.png",CCTV-4K
 http://60.10.225.157:555/rtp/239.253.93.134:6631
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16
+#EXTINF:-1 group-title="体育" tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16
 http://61.149.237.171:8686/rtp/239.3.1.184:8001
