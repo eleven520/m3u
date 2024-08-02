@@ -8,11 +8,11 @@ http://61.52.157.216:808/hls/3/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-4中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4中文国际
 http://61.52.157.216:808/hls/4/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
-http://222.83.135.190:8181/tsfile/live/1016_1.m3u8
+http://123.183.78.112:808/hls/78/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事
-http://222.83.135.190:8181/tsfile/live/1028_1.m3u8
+http://123.183.78.112:808/hls/61/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV-6电影
-http://61.52.157.216:808/hls/6/index.m3u8
+http://123.183.78.112:808/hls/76/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-7国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV-7国防军事
 http://61.52.157.216:808/hls/7/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8电视剧
@@ -36,7 +36,7 @@ http://123.183.78.112:808/hls/666/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17
 http://123.183.78.112:808/hls/93/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
-http://61.52.157.216:808/hls/33/index.m3u8
+http://123.183.78.112:808/hls/31/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
 http://123.183.78.112:808/hls/42/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
