@@ -50,9 +50,9 @@ http://222.83.135.190:8181/tsfile/live/1085_1.m3u8
 #EXTINF:-1 group-title="海外" tvg-id="东森超视" tvg-logo="https://live.fanmingming.com/tv/东森超视.png",东森超视
 http://171.108.239.99:8181/tsfile/live/1023_1.m3u8
 #EXTINF:-1 group-title="体育" tvg-id="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
-http://60.220.163.40:4000/rtp/226.0.2.209:9584
+http://60.17.195.0:8888/rtp/232.0.0.171:1234
 #EXTINF:-1 group-title="体育" tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事
-http://60.220.163.40:4000/rtp/226.0.2.168:9256
+http://60.17.195.0:8888/rtp/232.0.0.93:1234
 #EXTINF:-1 group-title="体育" tvg-id="CCTV-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV-4K.png",CCTV-4K
 http://60.10.225.157:555/rtp/239.253.93.134:6631
 #EXTINF:-1 group-title="体育" tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16
